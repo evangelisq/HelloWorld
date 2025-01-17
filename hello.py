@@ -1,2 +1,3 @@
 # Good day comment
-print("Hello World")
+print("Hello world")
+print("Good Day")
