@@ -3,7 +3,7 @@
 
 Hello world project example
 
-[Software Demo Video] https://youtu.be/lBcuHT1pCHM
+[Software Demo Video] https://youtu.be/wEKg78yqzfI
 
 # Development Environment
 
